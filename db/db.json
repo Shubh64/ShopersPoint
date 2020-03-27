@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "userName": "Sparsh",
+      "emailId": "sparsh@mail.com",
+      "userType": "Prime",
+      "mobileNumber": 4567898765,
+      "password": "123",
+      "address":"Bihar",
+      "role":"ADMIN",
+      "id": 1
+    },
+    {
+      "userName": "Shubh",
+      "emailId": "shubh@mail.com",
+      "userType": "Prime",
+      "mobileNumber": 4567875434,
+      "password": "123",
+      "address":"Bihar",
+      "id": 2
+    },
+    {
+      "userName": "amit",
+      "emailId": "amit@mail.com",
+      "userType": "Normal",
+      "mobileNumber": 4567853456,
+      "password": "123",
+      "address":"Bihar",
+      "id": 3
+    },
+    {
+      "userName": "Sandy",
+      "emailId": "sandy@mail.com",
+      "userType": "Normal",
+      "mobileNumber": 2345676324,
+      "password": "123",
+      "address":"Bihar",
+      "id": 4
+    },
+    {
+      "userName": "Nitish",
+      "emailId": "nitish.agrawal@wipro.com",
+      "userType": "Prime",
+      "mobileNumber": 9971916273,
+      "password": "123",
+      "address":"Bihar",
+      "id": 5
+    },
+    {
+      "userName": "Kusuma",
+      "emailId": "kusuma@mail.com",
+      "userType": "Prime",
+      "mobileNumber": 2345677654,
+      "password": "123",
+      "address":"Bihar",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    },
+    {
+      "id": 2,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    },
+    {
+      "id": 3,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    },
+    {
+      "id": 4,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    },
+    {
+      "id": 5,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    },
+    {
+      "id": 6,
+      "productName": "IphoneX",
+      "productId": "12",
+      "availability": "12",
+      "productCost": 60000
+    }
+  ]
+}

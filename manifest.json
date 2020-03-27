@@ -1,0 +1,7 @@
+{
+  "name": "ShopersPoint",
+  "short_name": "ShopersPoint",
+  "description": "Shopping Point",
+  "start_url": "/",
+  "display": "standalone"
+}
